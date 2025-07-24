@@ -1,7 +1,7 @@
 
 //@julios campaner
 
-package no2;
+package grade;
 import java.util.Scanner;
 
 public class No2 {

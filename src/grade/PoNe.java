@@ -1,6 +1,6 @@
 
 //@author julios campaner
-package no3;
+package grade;
 
 import java.util.Scanner;
 
