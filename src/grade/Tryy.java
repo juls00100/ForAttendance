@@ -1,4 +1,4 @@
-package sampleappa;
+package grade;
 
 import banking.bankApp;
 import java.util.Scanner;
@@ -172,7 +172,7 @@ static bankApp verifyAccount(int accNo, int pin) {
                     break;
                 case 0:
                     System.out.println("");
-                    System.out.print("YOU CHOOSE TO LOG OUT. OKSKIBIDI");
+                    System.out.println("YOU CHOOSE TO LOG OUT. OKSKIBIDI");
                     break;
                 default:
                     System.out.println("");
